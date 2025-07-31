@@ -1,0 +1,32 @@
+user:
+  isAdmin: true
+  name: Mike
+  age: 40
+  job: data engineer
+  skills:
+    - name: backend
+      level: 5
+      description: |
+        some
+        description
+    - name: devops
+      level: 5
+      description: |
+        some
+        description
+  residence:
+    country: Russia
+    city: Moscow
+    street: Emlytina
+    house: 15
+    flat: 121
+  pets:
+    - name: barsik
+      breed: cat
+      canMeow: true
+    - name: murzik
+      breed: cat
+      canMeow: true
+
+
+
